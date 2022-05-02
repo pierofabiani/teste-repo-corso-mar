@@ -1,4 +1,32 @@
+body {
+    text-align: center;
+    align-items: center;
+    background-color: rgb(62, 197, 218);
+    font-family: 'Oleo Script', cursive;
+}
+
 h1 {
     font-size: 34px;
     color: rgb(37, 50, 103);
+    font-weight: 700;
+    
+}
+
+p {
+    color: #361467;
+    font-size: 18px;
+
+}
+
+div {
+    background-color: rgb(170, 116, 220);
+    max-width: 70%;
+    margin: auto;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 4px 8px 16px rgb(42, 24, 60, 0.2);
+}
+
+.background2 {
+    background-color: red;
 }
